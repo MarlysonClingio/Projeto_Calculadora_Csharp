@@ -4,7 +4,7 @@
 <h3>Objetivo</h3>
 
 Projeto realizado com a intenção de adquirir e aperfeiçoar meus conhecimentos iniciais em:<br>
-•	C# e .NET<br>
+<br>•	C# e .NET<br>
 •	IDE Microsoft Visual Studio<br>
 •	Design do Windows Forms<br>
 •	Aplicações Desktop Windows<br>
