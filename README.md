@@ -19,4 +19,3 @@ Projeto realizado com a intenção de adquirir e aperfeiçoar meus conhecimentos
 
 <h3>Observações</h3>
 •	Aplicativo do Tipo Windows Forms<br>
-•	Calculadora básica completa, mas ainda passiva de revisões de erros e bugs<br>
